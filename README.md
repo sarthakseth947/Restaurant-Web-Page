@@ -1,4 +1,4 @@
-# Restaurant Static Web PAge
+# Restaurant Static Web Page
 
 Restaurant web page is a static web page,made using -:
 
